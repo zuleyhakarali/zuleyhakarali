@@ -40,6 +40,3 @@
 ### 🌐 Connect With Me  
 - 📧 **Email:** zuleyha.karali04@gmail.com  
 
----
-
-<p align="center">✨ <i>“Keep exploring how systems think — and then think smarter.”</i> ✨</p>
