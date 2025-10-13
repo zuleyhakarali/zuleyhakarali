@@ -1,11 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Züleyha+Karali+👋;42+Istanbul+Student+🧠;Cybersecurity+Enthusiast+🔐;System+Programming+Learner+💻" alt="Typing SVG" />
-</p>
 
----
-
-### 👩‍💻 About Me  
+### Hi, I'm Züleyha
 🎓 Student at **42 Istanbul**  
 🔐 Passionate about **Cybersecurity**, **System Programming**, and **Low-level Development**  
 💻 Currently learning **C**, **Linux**, and **network fundamentals**  
@@ -44,9 +38,7 @@
 ---
 
 ### 🌐 Connect With Me  
-- 📧 **Email:** zuleyhakarali@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/zuleyhakarali](https://linkedin.com/in/zuleyhakarali)  
-- 🧠 **42 Intra:** [intra.42.fr](https://intra.42.fr)  
+- 📧 **Email:** zuleyha.karali04@gmail.com  
 
 ---
 
