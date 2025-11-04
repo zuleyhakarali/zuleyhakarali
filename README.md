@@ -14,7 +14,9 @@
 | [ft_printf](https://github.com/zuleyhakarali/ft_printf) | Implementation of printf function in C | ✅ Done |
 | [get_next_line](https://github.com/zuleyhakarali/get_next_line) | Read a line from a file descriptor | ✅ Done |
 | [Born2BeRoot](https://github.com/zuleyhakarali/Born2BeRoot) | Linux basics, virtualization, and system administration | ✅ Done |
-| [push_swap](https://github.com/zuleyhakarali/push_swap) | Sorting algorithms with stacks | 🔄 In Progress |
+| [push_swap](https://github.com/zuleyhakarali/push_swap) | Sorting algorithms with stacks | ✅ Done |
+| [pipex](https://github.com/zuleyhakarali/pipex) | Recreate shell-like pipes and command execution | ✅ Done |
+| [so_long](https://github.com/zuleyhakarali/so_long) | Simple 2D game using MiniLibX | 🛠️ In Progress |
 
 ---
 
