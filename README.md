@@ -17,6 +17,7 @@
 | [push_swap](https://github.com/zuleyhakarali/push_swap) | Sorting algorithms with stacks | ✅ Done |
 | [pipex](https://github.com/zuleyhakarali/pipex) | Recreate shell-like pipes and command execution | ✅ Done |
 | [so_long](https://github.com/zuleyhakarali/so_long) | Simple 2D game using MiniLibX | ✅ Done |
+| [philo](https://github.com/zuleyhakarali/philo) | Dining Philosophers problem using threads & mutexes (deadlock/race control) | ✅ Done |
 
 ---
 
