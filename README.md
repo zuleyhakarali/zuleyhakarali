@@ -1,9 +1,10 @@
 
 ### Hi, I'm Züleyha
-🎓 **42 Istanbul**  
-🔐 **Cybersecurity**, **System Programming**, and **Low-level Development**  
-💻 Currently learning **C**, **Linux**, and **network fundamentals**  
-🌱 Exploring how systems work — from memory to network packets  
+
+🎓 **42 Istanbul Student**
+🔐 System Programming | Low-level Architecture | Cybersecurity
+💻 C / C++ / Linux / Networking
+🌱 Deep-diving into operating systems, memory safety, and packet flows
 
 ---
 
@@ -23,10 +24,12 @@
 
 ---
 
-### 🛠️ Skills  
-- **Languages:** C, Bash  
-- **Tools:** Git, Makefile, Linux, VS Code  
-- **Concepts:** Algorithms, Memory Management, System Programming, Cybersecurity Basics  
+### 🛠️ Technical Stack
+
+- **Core:** C, C++, Bash Scripting
+- **Systems:** Linux, Memory Management, Process Control, Multithreading
+- **Networking:** Subnetting, Routing, TCP/IP Suite
+- **Tools:** Git, Makefile, Valgrind, GDB, VS Code
 
 ---
 
