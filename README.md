@@ -1,7 +1,7 @@
 
 ### Hi, I'm Züleyha
-🎓 Student at **42 Istanbul**  
-🔐 Passionate about **Cybersecurity**, **System Programming**, and **Low-level Development**  
+🎓 **42 Istanbul**  
+🔐 **Cybersecurity**, **System Programming**, and **Low-level Development**  
 💻 Currently learning **C**, **Linux**, and **network fundamentals**  
 🌱 Exploring how systems work — from memory to network packets  
 
