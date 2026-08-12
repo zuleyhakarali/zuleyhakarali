@@ -33,10 +33,9 @@
 
 ---
 
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuleyhakarali&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuleyhakarali&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-two.vercel.app/api?username=zuleyhakarali&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Züleyha's GitHub Stats" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=zuleyhakarali&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
