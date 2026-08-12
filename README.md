@@ -18,6 +18,7 @@
 | [pipex](https://github.com/zuleyhakarali/pipex) | Recreate shell-like pipes and command execution | ✅ Done |
 | [so_long](https://github.com/zuleyhakarali/so_long) | Simple 2D game using MiniLibX | ✅ Done |
 | [philo](https://github.com/zuleyhakarali/philo) | Dining Philosophers problem using threads & mutexes (deadlock/race control) | ✅ Done |
+| [minishell](https://github.com/ykpgunduz/minishell) | As beautiful as a shell - a simple shell implementation in C | ✅ Done |
 
 ---
 
