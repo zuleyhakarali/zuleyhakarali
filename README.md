@@ -29,7 +29,7 @@
 - **Core:** C, C++, Bash Scripting
 - **Systems:** Linux, Memory Management, Process Control, Multithreading
 - **Networking:** Subnetting, Routing, TCP/IP Suite
-- **Tools:** Git, Makefile, Valgrind, GDB, VS Code
+- **Tools:** Git, Makefile, Valgrind, VS Code
 
 ---
 
