@@ -3,7 +3,7 @@
 
 - 🎓 **42 Istanbul Student**
 - 🔐 System Programming | Low-level Architecture | Cybersecurity
-- 💻 C / C++ / Linux / Networking
+- 💻 C / Linux / Networking
 - 🌱 Deep-diving into operating systems, memory safety, and packet flows
 
 ---
